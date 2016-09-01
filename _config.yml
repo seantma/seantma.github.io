@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: sean ma
+title: Sean Ma
 locale: en_US
-description: thoughts & reflections in entrepreneurship education, data science, and experiments
+description: thoughts on data science , entrepreneurship education, and experiments
 logo: site-logo.png
 search: true
 url: https://seantma.github.io
