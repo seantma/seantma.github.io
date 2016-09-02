@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Teh-Sheng Ma"
+title                    : "Sean Ma"
 title_separator          : "-"
 name                     : "Sean Ma"
 description              : "thoughts on data science, entrepreneurship education & experiments"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "_seantma"
 facebook:
   username               :
   app_id                 :
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "seantma"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/seantma"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "_seantma"
   vine             :
   weibo            :
   xing             :
